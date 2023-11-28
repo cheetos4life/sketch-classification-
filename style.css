@@ -1,0 +1,20 @@
+body{
+background-color:orange;
+}
+
+#score{
+    float:left;
+    margin-left:30px;
+    font-size:22px;
+}
+
+#timer{
+    float:right;
+    margin-right:30px;
+    font-size:22px;
+}
+
+#draw{
+    color:purple;
+    
+}
